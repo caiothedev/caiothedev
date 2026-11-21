@@ -140,10 +140,10 @@ I believe that great products stem from a balance of **creativity, technical ski
         align="left" 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=caiovisuals&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=caiothedev&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"
     />
     <img 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovisuals&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiothedev&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"/>
 </p>
