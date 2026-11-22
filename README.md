@@ -92,6 +92,14 @@ I believe that great products stem from a balance of **creativity, technical ski
 />
 <img 
     align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Figma" 
     title="Figma"
     width="35px" 
